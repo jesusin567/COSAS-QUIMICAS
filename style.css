@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f4f4f4;
+}
+h1 {
+    color: #333;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    color: red
+}
+th, td {
+    padding: 20px;
+    border: 1px solid #0ed10e;
+    text-align: left;
+}
+th {
+    background-color: #e2e2e2;
+}
+.reflexion {
+     
+
+    background-color: #e7f3fe;
+    border-left: 6px solid #0ccf2d;
+    margin: 20px 0;
+    padding: 10px;
+}
+ 
